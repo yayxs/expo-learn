@@ -1,8 +1,12 @@
 {
   "name": "htmx",
   "version": "0.0.1",
-  "description": "",
-  "scripts": {},
+  "scripts": {
+    "dev": "http-server"
+  },
   "keywords": [],
-  "author": "vanlee"
+  "author": "vanlee",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
 }
