@@ -1,4 +1,0 @@
-- library 一个库 lib 面向现代浏览器
-- 直接从 HTML 访问现代浏览器功能
-- 而不是使用 javascript
-- 扩展并概括了 HTML 作为超文本的核心思想
